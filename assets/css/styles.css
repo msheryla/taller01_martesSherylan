@@ -1,5 +1,5 @@
 ul {
-    background-color: #212121;
+    background-color: #610231;
     list-style: none;
     padding: 20px;
     
@@ -8,7 +8,7 @@ ul {
 
 .activo {
     display: inline-block;
-    background-color: #037507;
+    background-color: #363737;
     color: rgb(255, 255, 255);
     padding: 10px 25px;
     text-align: center;
@@ -21,7 +21,7 @@ ul {
 }
 
 li a:hover {
-    background-color: #00ff04;
+    background-color: #ffea00;
   }
 
 
@@ -35,13 +35,13 @@ li {
 
 .activo2 {
     display: inline-block;
-    background-color: #00ff08;
+    background-color: #ffea00;
     color: rgb(255, 255, 255);
     padding: 10px 25px;
     text-align: center;
     text-decoration: none;
     border: none;
-    border-radius: 20px 200px 200px;
+    border-radius: 20px 20px 200px;
     cursor: pointer;
     transition: background-color 0.7s;
 
@@ -50,7 +50,7 @@ li {
 
 
 main {
-    background-color: #212121;
+    background-color: #610231;
 }
 
 h1 {
@@ -60,7 +60,7 @@ h1 {
 }
 
 html {
-    background-color: blueviolet;
+    background-color: rgb(252, 235, 80);
 }
 
 form {
