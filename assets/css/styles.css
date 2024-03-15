@@ -1,0 +1,75 @@
+ul {
+    background-color: #212121;
+    list-style: none;
+    padding: 20px;
+    
+}
+
+
+.activo {
+    display: inline-block;
+    background-color: #037507;
+    color: rgb(255, 255, 255);
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.7s;
+
+}
+
+li a:hover {
+    background-color: #00ff04;
+  }
+
+
+
+li {
+    display: inline-block;
+    margin-bottom: 5px;
+
+    
+}
+
+.activo2 {
+    display: inline-block;
+    background-color: #00ff08;
+    color: rgb(255, 255, 255);
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 20px 200px 200px;
+    cursor: pointer;
+    transition: background-color 0.7s;
+
+}
+
+
+
+main {
+    background-color: #212121;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: left;
+
+}
+
+html {
+    background-color: blueviolet;
+}
+
+form {
+    text-align: right;
+
+}
+
+.miJumbo {
+    padding-right: 430px;
+    padding-left: 7px;
+    padding-top: 30px;
+}
